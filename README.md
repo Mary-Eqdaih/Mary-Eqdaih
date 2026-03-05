@@ -1,26 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff9a9e,100:fbc2eb&text=Hi%20👋%20I'm%20Mariam&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&color=F78FB3&lines=Flutter+Developer;Front-End+Developer;UI%2FUX+Designer;Building+Modern+Apps"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&color=F78FB3&lines=Flutter+Developer;Front-End+Developer;UX%2FUI+Designer;"/>
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:ff9a9e&height=100&section=footer"/>
 <p align="center">
 	
+---
+	
 <p align="center">
 <a href="mailto:maryeqdaih@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-maryeqdaih@gmail.com-ff9a9e?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-maryeqdaih%40gmail.com-ff9a9e?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mary-eqdaih-005660373">
-<img src="https://img.shields.io/badge/LinkedIn-Mary%20Eqdaih-fbc2eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mariam%20Eqdaih-fbc2eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
 </p>
 
-
+---
 ## 👩‍💻 About Me
 
 - 💙 Flutter developer passionate about building **scalable and responsive mobile applications**
@@ -62,5 +64,8 @@
 </p>
 
 ---
-⭐ Feel free to explore my repositories!
 
+<p align="center">
+💻 Building ideas into code, one project at a time. <br>
+Always learning, always improving.🌸
+</p>
