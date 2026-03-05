@@ -8,19 +8,13 @@
 	
 <p align="center">
 <a href="mailto:maryeqdaih@gmail.com">
-<img src="https://img.shields.io/badge/Email-maryeqdaih%40gmail.com-ff9a9e?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-maryeqdaih@gmail.com-ff9a9e?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mary-eqdaih-005660373">
-<img src="https://img.shields.io/badge/LinkedIn-Mariam%20Eqdaih-fbc2eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Mary-Eqdaih">
-<img src="https://img.shields.io/badge/GitHub-Mary--Eqdaih-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mary%20Eqdaih-fbc2eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
