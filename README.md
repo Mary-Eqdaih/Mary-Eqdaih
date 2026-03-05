@@ -5,18 +5,24 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:ff9a9e&height=100&section=footer"/>
 <p align="center">
-
+	
+<p align="center">
 <a href="mailto:maryeqdaih@gmail.com">
 <img src="https://img.shields.io/badge/Email-maryeqdaih%40gmail.com-ff9a9e?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/mary-eqdaih-005660373">
 <img src="https://img.shields.io/badge/LinkedIn-Mariam%20Eqdaih-fbc2eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
+<p align="center">
 <a href="https://github.com/Mary-Eqdaih">
 <img src="https://img.shields.io/badge/GitHub-Mary--Eqdaih-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </p>
 
@@ -55,9 +61,10 @@
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mary-Eqdaih&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-Eqdaih&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mary-Eqdaih&show_icons=true&theme=rose_pine" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-Eqdaih&layout=compact&theme=rose_pine" />
 </p>
 
 ---
