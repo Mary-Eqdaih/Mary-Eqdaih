@@ -55,16 +55,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mary-Eqdaih&show_icons=true&theme=rose_pine" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-Eqdaih&layout=compact&theme=rose_pine" />
-</p>
-
----
-
 <p align="center">
 💻 Building ideas into code, one project at a time. <br>
 Always learning, always improving.🌸
