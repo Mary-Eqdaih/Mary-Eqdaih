@@ -23,11 +23,10 @@
 
 ## 👩‍💻 About Me
 
-• 💙 Flutter developer passionate about building **scalable and responsive mobile applications**.
-• 🎨 Strong interest in **UI/UX design**, creating clean and user-friendly interfaces.
-• 🌐 Skilled in **creating responsive web interfaces** using modern front-end technologies.
-• 🚀 I enjoy turning ideas into **real-world applications through clean, maintainable code**.
-
+- 💙 Flutter developer passionate about building **scalable and responsive mobile applications**
+- 🎨 Strong interest in **UI/UX design**, creating clean and user-friendly interfaces
+- 🌐 Skilled in **creating responsive web interfaces** using modern front-end technologies
+- 🚀 I enjoy turning ideas into **real-world applications through clean, maintainable code**
 ---
 ## 🛠 Tech Stack
 
@@ -56,10 +55,10 @@
 
 
 ## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-Eqdaih\&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mary-Eqdaih\&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mary-Eqdaih&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary-Eqdaih&layout=compact" />
+</p>
 
 ---
 ⭐ Feel free to explore my repositories!
