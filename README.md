@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mary-eqdaih-005660373">
+<a href="https://www.linkedin.com/in/mariam-eqdaih-005660373/">
 <img src="https://img.shields.io/badge/LinkedIn-Mariam%20Eqdaih-fbc2eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
